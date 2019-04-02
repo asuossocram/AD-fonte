@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Java Script</title>
+		<script src="js/funcoes.js"></script>
+		<link rel="stlesheet" type="text/css" href="css/style.css">
+	</head>
+	<body>
+		<p id="demo">
+		<button id="botao_imagem" onclick="trocaFonteMaior()">Aumentar fonte</button>
+		<button id="botao_imagem" onclick="trocaFonteMenor()">Diminuir fonte</button>
+	</body>
+</html>
